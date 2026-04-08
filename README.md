@@ -15,4 +15,4 @@ How to run the project:
 2. Extract the ZIP file and place the Google-Playstore.csv file into the repository's /data folder.
 
 3. Run the data_cleaning.ipynb
-    - This notebook will clean the data and store the prosessed data into MongoDB
+    - This notebook cleans the data and stores the prosessed data into MongoDB
