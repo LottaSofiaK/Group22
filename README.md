@@ -7,3 +7,12 @@ Team members:
 4. Jani Laakso
 5. Aleksi Savukoski
    
+How to run the project:
+
+1. Download the dataset from Kaggle
+    Link to the dataset: https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps
+
+2. Extract the ZIP file and place the Google-Playstore.csv file into the repository's /data folder.
+
+3. Run the data_cleaning.ipynb
+    - This notebook will clean the data and store the prosessed data into MongoDB
