@@ -27,7 +27,7 @@ How to run the project:
 
 5. Run the Group_22_analysis_and_visualization.ipynb
     - Execute all cells
-    - This is analysis part of this project
+    - This is the analysis part of this project
 
 Technologies used in this project:
 
