@@ -37,3 +37,4 @@ Technologies used in this project:
 - Pandas
 - Matplotlib
 - Seaborn
+- Numpy
