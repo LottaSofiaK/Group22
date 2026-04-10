@@ -22,7 +22,7 @@ How to run the project:
 
 3. Start MongoDB
 
-4. Run the data_cleaning.ipynb
+4. Run the Group_22_data_cleaning.ipynb
     - This notebook cleans the data and stores the processed data into MongoDB.
 
 5. Run the Group_22_analysis_and_visualization.ipynb
